@@ -1,0 +1,32 @@
+body{
+     
+}
+#ai{
+text-align: center;
+background-color: rgb(240, 137, 63);
+padding: 13px;
+color: rgb(255, 68, 0);
+}
+#ixi{
+text-align: center;
+background-color: rgb(237, 238, 238);
+padding: 10px;
+
+} 
+#p{
+    text-align: left;
+    padding: 15px;
+    background-color: bisque;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#ixi a{
+    text-decoration: none;
+
+}
+#m{
+    text-align: center;
+}
+#L{
+    text-align: center;
+}
